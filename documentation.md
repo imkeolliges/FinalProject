@@ -19,4 +19,4 @@ https://www.youtube.com/watch?v=o8p7uQCGD0U
 https://www.youtube.com/watch?v=iv-Uc8d3tDs&t=57s
 https://www.youtube.com/watch?v=Xi1F2ZMAZ7Q
 https://docs.streamlit.io/develop/api-reference/configuration/config.toml
-https://discuss.streamlit.io/t/change-backgroud/5653
+https://discuss.streamlit.io/t/change-backgroud/565
